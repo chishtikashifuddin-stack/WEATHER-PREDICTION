@@ -17,7 +17,6 @@ A Python-based application that provides **real-time weather information** using
 - Python
 - Requests library for API requests
 - JSON for data parsing
-- Optionally, Tkinter for a GUI interface (if implemented)
 
 ## Installation
 
